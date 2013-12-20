@@ -1,0 +1,6 @@
+---
+layout: default
+title: My Little Blog
+---
+
+some text for page
