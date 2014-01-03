@@ -5,6 +5,6 @@ page:
   template: _page.txt
   extension: md
 editor: vim
-name: blog
+name: a's blog
 markdown: redcarpet
 pygments: true
