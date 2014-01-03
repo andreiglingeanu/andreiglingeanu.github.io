@@ -1,13 +1,14 @@
 ---
-layout: default
 title: My Little Blog
+layout: home
 ---
 
-<div id="home">
-  <h1>Words</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+<div class="home_page">
+  <h1><em>Andrei</em> G</h1>
+  <ul>
+    <li><a href="/words">words</a></li>
+    <li><a href="/about">about</a></li>
+    <li><a href="/books">books</a></li>
+    <li><a href="/movies">movies</a></li>
   </ul>
 </div>

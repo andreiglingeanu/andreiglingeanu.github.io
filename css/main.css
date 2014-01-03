@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-color: #F1F1F1;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -34,6 +34,56 @@ a:visited { color: #a0a; }
 /* Home
 /*
 /*****************************************************************************/
+
+
+.root {
+  margin-top: 255px;
+}
+
+.root h1 {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 10em;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+.root h1 em {
+  font-style: normal;
+  display: inline-block;
+  width: 95px;
+  overflow: hidden;
+  position: relative;
+  top: 33px;
+  font-size: 100%;
+  -webkit-transition: all .3s linear;
+  -moz-transition: all .3s linear;
+  transition: all .3s linear;
+}
+
+.root h1:hover em {
+  width: 440px;
+}
+
+.root ul {
+
+}
+
+.root ul li {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.root ul a {
+  text-decoration: none;
+  color: #A5A5A5;
+  font-family: "Helvetica";
+  font-size: 20px;
+}
+
+.root ul a:hover {
+  color: #686464;
+}
+
 .posts {
   list-style-type: none;
   margin-bottom: 2em;
