@@ -3,4 +3,5 @@ layout: default
 title: Books I've readed
 ---
 
-My preferate books.
+#Me preferate books.
+Here are books that are close to me and I don't want to forget about them.
