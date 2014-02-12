@@ -9,5 +9,6 @@ title: Afirmații geniale a Danielei Efimovna
 * Femeio
 * Noptică
 * ACC - Asociația celor creți
+* Balul Coțofenilor
 
 :)
