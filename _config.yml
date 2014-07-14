@@ -7,4 +7,4 @@ page:
 editor: vim
 name: a's blog
 markdown: redcarpet
-pygments: true
+hightlighter: true
