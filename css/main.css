@@ -61,7 +61,11 @@ a:visited:hover { border-bottom: 1px solid #F36051 !important; }
 }
 
 .root {
-  margin-top: 255px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 body a.ag {
