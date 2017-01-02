@@ -1,8 +1,0 @@
----
-layout: post
-title:
-date:   {{ site.time | date: '%y' }}
-categories: jekyll update
----
-
-some post text
